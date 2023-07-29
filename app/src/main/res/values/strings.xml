@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Guru Shishya Mobile App</string>
+    <string name="loginHere">Already have an account? <u>Login</u></string>
+    <string name="signuphere">Create a new account? <u>Sign Up</u></string>
+    <string name="username">Enter Username</string>
+    <string name="password">Enter Password</string>
+    <string name="name">Enter Full Name</string>
+    <string name="phone">Enter Phone No</string>
+    <string name="intro">The Guru Shishya Mobile Application is our first project as a team. We have worked day in and out to bring this project into reality.</string>
+    <string name="team">Founders/Developers\nShifa Khan\nAayushi Maurya\nAmina Shaikh\nTanisha Amin</string>
+    <string name="vision">VISION \nThe objective of Guru Shishya Application is to provide a better facility to both the teacher and student.\n\nMISSION \nThe Guru Shishya Application aims to provide a platform for teachers to guide various students for their better future.</string>
+    <string name="privacy">This service provided by Guru Shishya is at no cost and is intended for use as is.
+        \n\nThis page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+        \n\nIf you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information anyone.
+        \n\nWe may employ third-party companies and individuals due to the following reasons\n<li>To facilitate our Service</li>\n<li>To provide the Service on our behalf</li>\n<li>To perform Service-related services</li>
+        \n\nWe want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+        \n\nWe value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+        \n\nThis policy is effective as of 2022-03-05
+        \n\nContact Us
+        \ngurushishya001@gmail.com</string>
+    <string name="term">By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to Guru Shishya.
+        \n\nThe Guru Shishya app stores and processes personal data that you have provided to us, to provide our Service. You should be aware that there are certain things that Guru Shishya will not take responsibility for. Along the same lines, Guru Shishya cannot always take responsibility for the way you use the app.
+        \n\nWith respect to Guru Shishya ’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Guru Shishya accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
+        \n\nThese terms and conditions are effective as of 2022-03-05
+        \n\nContact Us
+        \ngurushishya001@gmail.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

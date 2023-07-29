@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Report User"
+        android:fontFamily="@font/alegreya_sc_bold"
+        android:textColor="@color/black"
+        android:textSize="28sp"
+        android:background="#20000000"
+        android:gravity="center"></TextView>
+
+    <EditText
+        android:id="@+id/reponam"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_height="wrap_content"
+        android:background="#0C000000"
+        android:drawableEnd="@drawable/ic_person"
+        android:fontFamily="sans-serif"
+        android:hint="Username of person you want to report   "
+        android:padding="10dp" />
+
+    <EditText
+        android:id="@+id/msg"
+        android:layout_width="match_parent"
+        android:layout_marginTop="15dp"
+        android:layout_height="100dp"
+        android:background="#0C000000"
+        android:drawableEnd="@drawable/ic_ct"
+        android:fontFamily="sans-serif"
+        android:hint="Reason of reporting   "
+        android:padding="10dp" />
+
+    <Button
+        android:id="@+id/btnrepokiya"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="SUBMIT"
+        android:layout_gravity="center"
+        android:fontFamily="@font/alegreya_sc_bold"
+        android:backgroundTint="#FF80AB"
+        app:layout_constraintTop_toBottomOf="@+id/ratingBar" />
+</LinearLayout>
